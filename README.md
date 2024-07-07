@@ -1,4 +1,4 @@
- Amazon Clone
+### Amazon Clone
 
 This project contains a simple webpage named "Amazon Clone" which showcases the core functionalities of an e-commerce website similar to Amazon. The webpage is built using HTML and CSS.
 
@@ -71,16 +71,4 @@ Contributions are welcome! Please follow these steps:
 5. Push to the branch (`git push origin feature/YourFeature`).
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or inquiries, please contact:
-
-- **Rahul Prasad** - [rahul0252](https://github.com/rahul0252)
-
----
-
-Feel free to customize the sections to better match the specifics of your project. If you have any other details you want to include, let me know!
+This project is a basic Amazon Clone built using only HTML and CSS. It aims to replicate the core design and functionality of the Amazon website, providing a user-friendly interface for browsing and viewing products. This project serves as an excellent example for beginners to learn how to structure HTML and CSS files, create a cohesive design, and build a static web page that mimics a real-world e-commerce site.
