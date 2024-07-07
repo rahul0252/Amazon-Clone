@@ -1,4 +1,4 @@
-### Amazon Clone
+## Amazon Clone
 
 This project contains a simple webpage named "Amazon Clone" which showcases the core functionalities of an e-commerce website similar to Amazon. The webpage is built using HTML and CSS.
 
